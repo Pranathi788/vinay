@@ -33,7 +33,7 @@ export default function Home() {
           <Image src={imageSecondTwo} alt="image" width={166} height={125} />
           <a
             className={styles.button}
-            href="https://maps.app.goo.gl/onSe6chhHAxwneUx5"
+            href="https://maps.app.goo.gl/2SAoC4Rrw842wAgG6"
           >
             Maps
           </a>
@@ -76,12 +76,12 @@ export default function Home() {
           </a>
           <a
             className={styles.button}
-            href="https://maps.app.goo.gl/onSe6chhHAxwneUx5"
+            href="https://maps.app.goo.gl/2SAoC4Rrw842wAgG6"
           >
             Maps
           </a>
           <a className={styles.button}>Live Link</a>
-          <a className={styles.button} href="/wedding-invite/contact">
+          <a className={styles.button} href="https://www.youtube.com/@kalyansphotography">
             Contact
           </a>
         </div>
