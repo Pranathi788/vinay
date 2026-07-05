@@ -22,7 +22,7 @@ export default function Home() {
         <div className={styles.mobileLineOne}>
           <a
             className={`${styles.button} ${styles.mobileButtonOne}`}
-            href="/wedding-invite/invitation"
+            href="/invitation"
           >
             Invitation
           </a>
@@ -46,7 +46,7 @@ export default function Home() {
         </div>
         <div className={styles.mobileLineFour}>
           <Image src={imageThirdTwo} alt="image" width={197} height={151} />
-          <a className={styles.button} href="/wedding-invite/contact">
+          <a className={styles.button} href="/contact">
             Contact
           </a>
         </div>
@@ -73,7 +73,7 @@ export default function Home() {
         </div>
 
         <div className={styles.buttonWrapper}>
-          <a className={styles.button} href="/wedding-invite/invitation">
+          <a className={styles.button} href="/invitation">
             Invitation
           </a>
           <a className={styles.button}
@@ -85,7 +85,7 @@ export default function Home() {
             Live Link
           </a>
           <a className={styles.button} 
-              href="/wedding-invite/contact">
+              href="/contact">
             Contact
           </a>
         </div>
