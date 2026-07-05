@@ -74,14 +74,16 @@ export default function Home() {
           <a className={styles.button} href="/wedding-invite/invitation">
             Invitation
           </a>
-          <a
-            className={styles.button}
-            href="https://maps.app.goo.gl/2SAoC4Rrw842wAgG6"
-          >
+          <a className={styles.button}
+            href="https://maps.app.goo.gl/2SAoC4Rrw842wAgG6">
             Maps
           </a>
-          <a className={styles.button}>Live Link</a>
-          <a className={styles.button} href="https://www.youtube.com/@kalyansphotography">
+          <a className={styles.button}
+             href="https://www.youtube.com/@kalyansphotography" >
+            Live Link
+          </a>
+          <a className={styles.button} 
+              href="/wedding-invite/contact">
             Contact
           </a>
         </div>
