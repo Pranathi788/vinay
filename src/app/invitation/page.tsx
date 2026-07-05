@@ -23,35 +23,35 @@ const Invitation = () => {
         </div>
 
         <div className={styles.groomDetailsWrapper}>
-          <div className={styles.name}>Pranathi</div>
-          <div className={styles.context}>D/o Vegesna Venkata Subba Raju</div>
+          <div className={styles.name}>Vinay Varma</div>
+          <div className={styles.context}>S/o Vegesna Venkata Subba Raju</div>
           <div className={styles.context}>&</div>
           <div className={styles.context}>Smt Sitamani</div>
         </div>
         {/* <div className={styles.and}>&</div> */}
         <div className={styles.brideDetailsWrapper}>
-          <div className={styles.name}>Jnanendra</div>
-          <div className={styles.context}>S/o Dandu Venkata Naga Varaprasada Raju</div>
+          <div className={styles.name}>Tanvi </div>
+          <div className={styles.context}>D/o Suresh</div>
           <div className={styles.context}>&</div>
-          <div className={styles.context}>Smt Uma Devi</div>
+          <div className={styles.context}>Smt Bhavani</div>
         </div>
         <div className={styles.sumuhurthamWrapper}>
           <div className={styles.name}>Sumuhurtham</div>
-          <div className={styles.context}>On Friday</div>
-          <div className={styles.context}>14, March,2025</div>
-          <div className={styles.context}>Night at 3:38 am</div>
-          <div className={styles.context}>{`(Early morning of Saturday)`}</div>
+          <div className={styles.context}>On Sunday</div>
+          <div className={styles.context}>16, Aug,2026</div>
+          <div className={styles.context}>Night at 12.23 am</div>
+          <div className={styles.context}>{`(Early hours of 17th aug)`}</div>
         </div>
         <div className={styles.venueWrapper}>
           <div className={styles.name}>Venue</div>
-          <div className={styles.context}>Nirmala Devi Function hall</div>
-          <div className={styles.context}>Pedamiram, West Godavari</div>
+          <div className={styles.context}>Adabala Gardens</div>
+          <div className={styles.context}>Palakollu, West Godavari</div>
           <div className={styles.context}>Andhra Pradesh</div>
         </div>
         <div className={styles.dinnerWrapper}>
           <div className={styles.name}>Dinner</div>
-          <div className={styles.context}>On Friday, 14 March, 2025</div>
-          <div className={styles.context}>From 6:30 pm at venue</div>
+          <div className={styles.context}>On Sunday, 16 Aug, 2026</div>
+          <div className={styles.context}>From 7:00 pm at venue</div>
         </div>
       </div>
     </div>
