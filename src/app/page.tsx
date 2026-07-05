@@ -39,7 +39,9 @@ export default function Home() {
           </a>
         </div>
         <div className={styles.mobileLineThree}>
-          <a className={styles.button}>Live Link</a>
+          <a className={styles.button}
+          href="https://www.youtube.com/@kalyansphotography"
+          >Live Link</a>
           <Image src={imageThirdOne} alt="image" width={129} height={173} />
         </div>
         <div className={styles.mobileLineFour}>
